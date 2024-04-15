@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="26.775">
+  <properties />
+  
+  
+            <testcase name="handlealerts" time="2.776" classname="org.xyz.automation.fb.KeyboardMouseOperation" />
+                <testcase name="handleFrames" time="23.999" classname="org.xyz.automation.fb.KeyboardMouseOperation" />
+      
+</testsuite>
