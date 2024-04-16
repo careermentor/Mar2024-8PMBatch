@@ -16,7 +16,7 @@ public class ReadPropFile
 	
 	public static String readelementprop(String key) throws Exception
 	{
-		FileReader fr = new FileReader("./TestData/element.properties");
+		FileReader fr = new FileReader("./TestData/Element.properties");
 		Properties prop = new Properties();
 		prop.load(fr);
 		return prop.get(key).toString();
